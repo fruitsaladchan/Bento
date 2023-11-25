@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'DuckDuckGo',
+			icon: 'search',
+			link: 'https://duckduckgo.com/',
 		},
 		{
 			id: '6',
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.netflix.com/browse',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 			],
 		},
