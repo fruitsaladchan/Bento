@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'library',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Google Classroom',
+					link: 'https://classroom.google.com/u/1/h',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Office',
+					link: 'https://www.office.com/?auth=2&home=1',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Dashboard',
+					link: 'https://students.dpcdsb.org/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'ChatGPT',
+					link: 'https://chat.openai.com/',
 				},
 			],
 		},
