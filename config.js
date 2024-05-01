@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Lain',
+	name: '',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: true,
