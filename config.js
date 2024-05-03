@@ -18,8 +18,8 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingAfternoon: 'Good afternoon',
+	greetingEvening: 'Good evening',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
