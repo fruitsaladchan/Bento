@@ -135,29 +135,29 @@ const CONFIG = {
   // First Links Container
   firstlistsContainer: [
     {
-      icon: "list",
+      icon: "library",
       id: "1",
       links: [
         {
-          name: "Twitter",
-          link: "https://twitter.com/home",
+          name: "D2L",
+          link: "https://learn.georgebrown.ca/d2l/home",
         },
         {
           name: "ChatGPT",
           link: "https://chat.openai.com/",
         },
         {
-          name: "Jellyfin",
-          link: "https://ooku.duckdns.org/",
+          name: "STUVIEW",
+          link: "https://stuview.georgebrown.ca/",
         },
         {
-          name: "Reddit",
-          link: "https://www.reddit.com/",
+          name: "AUR",
+          link: "https://aur.archlinux.org/",
         },
       ],
     },
     {
-      icon: "library",
+      icon: "list",
       id: "2",
       links: [
         {
@@ -169,12 +169,12 @@ const CONFIG = {
           link: "https://9animetv.to",
         },
         {
-          name: "AUR",
-          link: "https://aur.archlinux.org/",
-        },
-        {
           name: "Kagurabachi",
           link: "https://readkagurabachimanga.com/chapter/kagurabachi-chapter-51/",
+        },
+        {
+          name: "jellyfin",
+          link: "https://ooku.duckdns.org/",
         },
       ],
     },
@@ -191,16 +191,16 @@ const CONFIG = {
           link: "https://www.spotify.com",
         },
         {
+          name: "soundcloud",
+          link: "https://soundcloud.com",
+        },
+        {
           name: "Reddit",
           link: "https://www.reddit.com",
         },
         {
-          name: "Hashnode",
-          link: "https://www.hashnode.com",
-        },
-        {
-          name: "Pocket",
-          link: "https://www.pocket.com",
+          name: "twiiter",
+          link: "https://x.com",
         },
       ],
     },
