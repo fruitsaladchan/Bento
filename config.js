@@ -143,12 +143,12 @@ const CONFIG = {
           link: "https://twitter.com/home",
         },
         {
-          name: "Twitch",
-          link: "https://www.twitch.tv/directory",
+          name: "ChatGPT",
+          link: "https://chatgpt.com",
         },
         {
-          name: "Netflix",
-          link: "https://www.netflix.com/browse",
+          name: "Jellyfin",
+          link: "https://ooku.duckdns.org/",
         },
         {
           name: "Reddit",
