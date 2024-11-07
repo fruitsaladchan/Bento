@@ -144,7 +144,7 @@ const CONFIG = {
         },
         {
           name: "ChatGPT",
-          link: "https://chatgpt.com",
+          link: "https://chat.openai.com/",
         },
         {
           name: "Jellyfin",
@@ -173,8 +173,8 @@ const CONFIG = {
           link: "https://aur.archlinux.org/",
         },
         {
-          name: "ChatGPT",
-          link: "https://chat.openai.com/",
+          name: "Kagurabachi",
+          link: "https://readkagurabachimanga.com/chapter/kagurabachi-chapter-51/",
         },
       ],
     },
