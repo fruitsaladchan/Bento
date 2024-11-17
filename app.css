@@ -6,7 +6,7 @@
 
 /* V A R I A B L E S */
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap'); /* Font Import */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap"); /* Font Import */
 
 :root {
   /* Font Size */
@@ -26,7 +26,7 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
- /* --imgbg: url(assets/background.jpg); /* Image URL */
+  /* --imgbg: url(assets/background.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
@@ -56,7 +56,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   transition: 0.2s ease-in-out;
 }
 
@@ -114,7 +114,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-0.2rem);
+  transform: translateY(-2rem);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
